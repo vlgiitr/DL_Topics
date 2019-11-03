@@ -47,11 +47,11 @@ This repo contains a list of topics which I feel that one should be comfortable 
 	+ Parameter Norm Penalties
 		+ L1 (sparsity)
 		+ L2 (smaller parameter values)
-	+ BatchNorm([Paper]())
+	+ BatchNorm ([Paper]())
 		+ Internal Covariate Shift
 		+ BatchNorm in CNNs ([Link](https://stackoverflow.com/questions/38553927/batch-normalization-in-convolutional-neural-network))
 		+ Backprop through BatchNorm Layer ([Explanation](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html))
-	+ Dropout ([Paper]())([Notes](https://vlgiitr.github.io/notes/2018-08-15-Dropout/))
+	+ Dropout ([Paper]()) ([Notes](https://vlgiitr.github.io/notes/2018-08-15-Dropout/))
 
 
 ## Computer Vision
@@ -96,7 +96,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 	+ OpenAI GPT
 	+ BERT
 3. Transformers ([Paper](https://arxiv.org/abs/1706.03762)) ([Code](https://nlp.seas.harvard.edu/2018/04/03/attention.html)) ([Blog](http://jalammar.github.io/illustrated-transformer/))
-	+ BERT ([Paper]((https://arxiv.org/abs/1810.04805)))
+	+ BERT ([Paper](https://arxiv.org/abs/1810.04805))
 	+ Universal Sentence Encoder
 
 ## Generative Models
@@ -104,10 +104,10 @@ This repo contains a list of topics which I feel that one should be comfortable 
 1. Generative Adversarial Networks (GANs)
 	+ Basic Idea
 	+ Variants
-		+ Vanilla GAN (Goodfellow's paper)
+		+ Vanilla GAN ([Paper](https://arxiv.org/abs/1406.2661))
 		+ DCGAN
-		+ Wasserstein GAN
-		+ Conditional GAN
+		+ Wasserstein GAN ([Paper](https://arxiv.org/abs/1701.07875))
+		+ Conditional GAN ([Paper](https://arxiv.org/abs/1411.1784))
 	+ Mode Collapse
 	+ GAN Hacks ([Link](https://github.com/soumith/ganhacks))
 2. Variational Autoencoders (VAEs)
