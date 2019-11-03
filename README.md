@@ -1,10 +1,16 @@
+
 # Deep Learning Interview Topics
 
 This repo contains a list of topics which I feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).
 
 ## Mathematics
 
-1. Probability and Statistics
+1. Linear Algebra
+	+ Linear Dependence and Span
+	+ Eigendecomposition
+		+ Eigenvalues and Eigenvectors
+	+ Singular Value Decomposition
+2. Probability and Statistics
 	+ Expectation, Variance and Co-variance
 	+ Distributions
 	+ Bias and Variance
@@ -13,7 +19,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 		+ Biased and Unbiased
 	+ Maximum Likelihood Estimation
 	+ Maximum A Posteriori (MAP) Estimation
-2. Information Theory
+3. Information Theory
 	+ (Shannon) Entropy
 	+ Cross Entropy
 	+ KL Divergence
@@ -124,7 +130,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 4. Support Vector Machines
 	+ Maximal-Margin Classifier
 	+ Kernel Trick
-5. PCA (derivation: dl book, blog, stackoverflow link)
+5. PCA ([Explanation](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579))
 	+ PCA using neural network
 		+ Architecture
 		+ Loss Function
