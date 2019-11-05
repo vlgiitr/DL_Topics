@@ -1,4 +1,3 @@
-
 # Deep Learning Interview Topics
 
 This repo contains a list of topics which I feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).
@@ -142,3 +141,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 
 1. Stanford's CS231n Lecture Notes
 2. Deep Learning Book (Goodfellow et. al.)
+
+## Contributing
+
+We welcome contributions to add resources such as notes, blogs, or papers for a topic. Feel free to open a pull request for the same!
