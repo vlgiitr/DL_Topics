@@ -4,7 +4,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 
 ## Mathematics
 
-1. Linear Algebra
+1. Linear Algebra([notes](http://cs229.stanford.edu/section/cs229-linalg.pdf))
 	+ Linear Dependence and Span
 	+ Eigendecomposition
 		+ Eigenvalues and Eigenvectors
@@ -32,7 +32,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 ## Basics
 
 1. Backpropogation
-	+ Vanilla
+	+ Vanilla ([blog](http://cs231n.github.io/optimization-2/))
 	+ Backprop in CNNs
 		+ Gradients in Convolution and Deconvolution Layers
 	+ Backprop through time
@@ -42,7 +42,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 	 + Cross Entropy Loss
 		 + Binary Cross Entropy
 		 + Categorical Cross Entropy
-3. Activation Functions (Sigmoid, Tanh, ReLU and variants)
+3. Activation Functions (Sigmoid, Tanh, ReLU and variants) ([blog](https://mlfromscratch.com/activation-functions-explained/))
 4. Optimizers
 5. Regularization
 	+ Early Stopping
@@ -91,7 +91,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 		+ LSTM
 		+ Bidirectional
 	+ Vanishing and Exploding Gradients
-2. Word Embeddings ([Blog](http://jalammar.github.io/illustrated-bert/))
+2. Word Embeddings 
 	+ Word2Vec
 	+ CBOW
 	+ Glove
@@ -99,7 +99,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 	+ SkipGram, NGram
 	+ ELMO
 	+ OpenAI GPT
-	+ BERT
+	+ BERT ([Blog](http://jalammar.github.io/illustrated-bert/))
 3. Transformers ([Paper](https://arxiv.org/abs/1706.03762)) ([Code](https://nlp.seas.harvard.edu/2018/04/03/attention.html)) ([Blog](http://jalammar.github.io/illustrated-transformer/))
 	+ BERT ([Paper](https://arxiv.org/abs/1810.04805))
 	+ Universal Sentence Encoder
@@ -116,7 +116,7 @@ This repo contains a list of topics which I feel that one should be comfortable 
 	+ Mode Collapse
 	+ GAN Hacks ([Link](https://github.com/soumith/ganhacks))
 2. Variational Autoencoders (VAEs)
-	+ Variational Inference
+	+ Variational Inference ([tutorial paper](https://arxiv.org/abs/1606.05908))
 	+ ELBO and Loss Function derivation
 3. Normalizing Flows
 	+ [Basic Idea and Applications](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
