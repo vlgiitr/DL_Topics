@@ -1,6 +1,6 @@
 # Deep Learning Interview Topics
 
-This repo contains a list of topics which I feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).
+This repo contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).
 
 ## Mathematics
 
