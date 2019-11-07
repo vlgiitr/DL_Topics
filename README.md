@@ -141,6 +141,7 @@ This repo contains a list of topics which we feel that one should be comfortable
 
 1. Stanford's CS231n Lecture Notes
 2. Deep Learning Book (Goodfellow et. al.)
+3. ([Weights & Biases Tutorials](https://www.wandb.com/tutorials))
 
 ## Contributing
 
