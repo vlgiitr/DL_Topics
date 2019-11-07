@@ -12,6 +12,7 @@ This repo contains a list of topics which we feel that one should be comfortable
 2. Probability and Statistics
 	+ Expectation, Variance and Co-variance
 	+ Distributions
+	+ Random Walks
 	+ Bias and Variance
 		+ Bias Variance Trade-off
 	+ Estimators
