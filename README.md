@@ -72,7 +72,7 @@ This repo contains a list of topics which we feel that one should be comfortable
 2. Object Recognition ([Blog](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4))
 	+ RCNN ([Notes](https://vlgiitr.github.io/notes/2018-10-29-RCNN_Notes/))
 	+ Fast RCNN
-	+ Faster RCNN ([Notes](https://vlgiitr.github.io/notes/2018-01-02-Deep_Gen_models/))
+	+ Faster RCNN ([Notes](https://vlgiitr.github.io/notes/2018-01-02-Deep_Gen_models/))([Blog](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/))
 	+ Mask RCNN
 	+ YOLO v3 (Real-time object recognition) 
 3. Convolution
