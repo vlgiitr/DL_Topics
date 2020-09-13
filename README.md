@@ -4,12 +4,12 @@ This repo contains a list of topics which we feel that one should be comfortable
 
 ## Mathematics
 
-1. Linear Algebra([notes](http://cs229.stanford.edu/section/cs229-linalg.pdf))
+1. Linear Algebra([[notes](http://cs229.stanford.edu/section/cs229-linalg.pdf)][[practice questions](https://www.geeksforgeeks.org/linear-algebra-gq/)])
 	+ Linear Dependence and Span
 	+ Eigendecomposition
 		+ Eigenvalues and Eigenvectors
 	+ Singular Value Decomposition
-2. Probability and Statistics
+2. Probability and Statistics([[notes](http://www.mxawng.com/stuff/notes/stat110.pdf)][[youtube series](https://www.youtube.com/user/joshstarmer)])
 	+ Expectation, Variance and Co-variance
 	+ Distributions
 	+ Bias and Variance
