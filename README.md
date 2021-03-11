@@ -12,6 +12,7 @@ This repo contains a list of topics which we feel that one should be comfortable
 2. Probability and Statistics([[notes](http://www.mxawng.com/stuff/notes/stat110.pdf)][[youtube series](https://www.youtube.com/user/joshstarmer)])
 	+ Expectation, Variance and Co-variance
 	+ Distributions
+	+ Random Walks
 	+ Bias and Variance
 		+ Bias Variance Trade-off
 	+ Estimators
