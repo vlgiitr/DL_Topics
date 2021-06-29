@@ -8,7 +8,7 @@ This repo contains a list of topics which we feel that one should be comfortable
 	+ Linear Dependence and Span
 	+ Eigendecomposition
 		+ Eigenvalues and Eigenvectors
-	+ Singular Value Decomposition
+	+ Singular Value Decomposition ([blog](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d))
 2. Probability and Statistics([[notes](http://www.mxawng.com/stuff/notes/stat110.pdf)][[youtube series](https://www.youtube.com/user/joshstarmer)])
 	+ Expectation, Variance and Co-variance
 	+ Distributions
