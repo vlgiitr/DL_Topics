@@ -26,7 +26,7 @@ This repo contains a list of topics which we feel that one should be comfortable
 		+ Not a distance metric
 		+ Derivation from likelihood ratio ([Blog](https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a))
 		+ Always greater than 0
-			+ Proof by Jensen's Inequality
+			+ Proof by Jensen's inequality [Stack Overflow Link](https://stats.stackexchange.com/a/335201)
 		+ Relation with Entropy ([Explanation](https://stats.stackexchange.com/questions/265966/why-do-we-use-kullback-leibler-divergence-rather-than-cross-entropy-in-the-t-sne))
 
 
