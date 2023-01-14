@@ -1,6 +1,8 @@
 # Deep Learning Topics and Resources
 
-This repo contains a list of topics which we feel that people seeking a career in deep learning should be familiar with. This list is by no means exhaustive given the pace of developments in deep learning.
+<div style="text-align: center;">
+<img src="./description.png" alt="description" width="800">
+</div>
 
 ## Resources for DL in General
 
